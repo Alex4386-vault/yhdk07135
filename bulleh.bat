@@ -1,4 +1,4 @@
 @echo off
 :A
-echo 벌레
+echo | set /p bug="벌레"
 goto A
