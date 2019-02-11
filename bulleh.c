@@ -2,7 +2,7 @@
 
 int main() {
 while(true) {
-printf("벌레");
+printf(_T("벌레"));
 }
 return 0;
 }
